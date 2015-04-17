@@ -1,11 +1,11 @@
 /**
 *   Name:       Immanuel I George, Nicholas White, Jason Hindulak
-*   Group:      C
-*   Date:       12-APR-2015
+*   Group:      P
+*   Due Date:   19-APR-2015
 *   Project 3:  Floppy Shell Program
 *   Goal:       Add additional UNIX commands to the Floppy shell program
 *
-*   UPDATED:    12-APR-2015
+*   UPDATED:    16-APR-2015
 **/
 
 #include <stdio.h>
